@@ -16,6 +16,7 @@ namespace GitHubDemo_2
 
         public void Configuration(IAppBuilder app)
         {
+            //bruce was here!
 
             // Add CMS integration for ASP.NET Identity
             app.AddCmsAspNetIdentity<ApplicationUser>();
